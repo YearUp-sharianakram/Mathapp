@@ -69,8 +69,7 @@ truckPrice. Set the variables to any value you want */
         double absoluteValue = Math.abs(value);
 // then use System.out.println() to display results
     System.out.println("The absolute value of " + value + " is " + absoluteValue);
-
-
+    
 // Question 7: Find and display a random number between 0 and 1
 // declare variables here
         double randomNumber = Math.random();
